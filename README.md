@@ -20,3 +20,7 @@ Make a database - go to the materials folder and run the script model.sql
 9). Day08-Today you will see how to use specific OLAP constructions to get a "Value" from data.
 
 10). Day09-Today you will see how database works with transactions and isolation levels.
+
+11). Day10-Today you will see how to create and use functional blocks in Databases.
+
+
