@@ -23,4 +23,5 @@ Make a database - go to the materials folder and run the script model.sql
 
 11). Day10-Today you will see how to create and use functional blocks in Databases.
 
+12). Day11-Today you will know what DWH is and how to create a first ETL process.
 
